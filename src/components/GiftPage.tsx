@@ -12,56 +12,56 @@ const magazinePages = [
     title: "The Chitra Devi Edition",
     subtitle: "ஒரு சிறப்பு பிறந்தநாள் பதிப்பு",
     content: "என் மிகச் சிறந்த தோழி சித்ரா தேவி காக அர்ப்பணிப்பு. நம்முடைய சிரிப்புகள், நினைவுகள் மற்றும் நம் நட்பின் அழகான பயணத்தை கொண்ட ஒரு சிறிய தொகுப்பு.",
-    image: "/src/images/1.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105823/1_d3o4qg.png",
     color: "from-amber-200 to-yellow-500"
   },
   {
     title: "ஒரு தூங்கும் தேவதை",
     subtitle: "அழகான ஆரம்பங்கள்",
     content: "அமைதியாக தூங்கும் ஒரு குழந்தையிலிருந்து, அனைவரையும் தனது அன்பால் கவரும் ஒரு அழகான மனிதராக வளர்ந்துள்ளாய். உன் தூய்மையான மனசு இன்னும் அதேபோல தான் இருக்கிறது.",
-    image: "/src/images/2.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105821/2_cjv43v.png",
     color: "from-purple-400 to-indigo-500"
   },
   {
     title: "மகிழ்ச்சி தருணங்கள்",
     subtitle: "நினைவுகளின் படம்",
     content: "நம்முடைய சிறந்த நாட்களின் ஒரு தொகுப்பு. சில்லறை முகங்கள் முதல் அழகான சிரிப்புகள் வரை, இங்கே இருக்கும் ஒவ்வொரு படமும் ஒரு உண்மையான நட்பின் கதையை சொல்கிறது.",
-    image: "/src/images/3.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105824/3_x4qeji.png",
     color: "from-rose-400 to-pink-500"
   },
   {
     title: "அன்பின் தூண்கள்",
     subtitle: "குடும்பமும் வேர்களும்",
     content: "குடும்பம் என்பது முடிவில்லாத அன்பு ஓடும் இடம். உன் குடும்பத்துடன் இருக்கும் தருணங்களை பார்க்கும்போது, உன் அழகான மனசு எங்கிருந்து வந்தது என்று புரிகிறது.",
-    image: "/src/images/4.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105823/4_xrif7n.png",
     color: "from-violet-400 to-purple-600"
   },
   {
     title: "நகைச்சுவை தருணங்கள்",
     subtitle: "மகிழ்ச்சி & கலாட்டா",
     content: "நாம் சிரிக்கும் போது வாழ்க்கை இன்னும் அழகாக இருக்கும். அந்த inside jokes, funny filters மற்றும் எப்போதும் சிரிக்க வைத்த தருணங்களுக்கு நன்றி.",
-    image: "/src/images/5.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105822/5_xynkiy.png",
     color: "from-brown-400 to-orange-600"
   },
   {
     title: "Digital-ல தொடங்கி Real ஆனது",
     subtitle: "எப்படி ஆரம்பமானது",
     content: "ஒரு late admission, ஒரு Instagram follow… அதிலிருந்து ஆரம்பித்த 'Hi' இன்று பிரிக்க முடியாத நட்பாக மாறிவிட்டது.",
-    image: "/src/images/6.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/6_pfpgbs.png",
     color: "from-stone-300 to-gray-500"
   },
   {
     title: "எப்போதும் ஒன்றாக",
     subtitle: "Exams, Labs & Support",
     content: "3 வருடங்களாக notes, dreams எல்லாம் share பண்ணிய நாட்கள். கடினமான exam இருந்தாலும், கஷ்டமான நாள் இருந்தாலும் நாம எப்போதும் ஒருவருக்கொருவர் துணையாக இருந்தோம்.",
-    image: "/src/images/7.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/7_ak3ets.png",
     color: "from-orange-200 to-red-400"
   },
   {
     title: "என்றும் உன் ரசிகன்",
     subtitle: "புதிய உயரங்களுக்கு",
     content: "உன் கனவுகள் எல்லாம் வானத்தை தொடட்டும். உன் ஒவ்வொரு வெற்றிக்கும் முன்னிலையில் நின்று உற்சாகமாக கைகொட்டும் நண்பனாக நான் எப்போதும் இருப்பேன். இனிய பிறந்தநாள் வாழ்த்துகள்!",
-    image: "/src/images/8.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/7_ak3ets.png",
     color: "from-amber-500 to-rose-400"
   }
 ];

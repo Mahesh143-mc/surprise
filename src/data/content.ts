@@ -23,25 +23,25 @@ export const memories = [
     title: "The First Meeting",
     date: "Python Lab",
     description: "A late admission that unknowingly started a beautiful friendship.",
-    image: "src/images/b5.jpeg"
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b5_vehwfb.jpg"
   },
   {
     title: "The Maths Connection",
     date: "Phone Call",
     description: "Doubts in maths slowly turned into meaningful conversations.",
-    image: "src/images/b5.jpeg"
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b5_vehwfb.jpg"
   },
   {
     title: "The Instagram Moment",
     date: "Always",
     description: "One simple follow and a “Hi” that changed everything.",
-    image: "src/images/b5.jpeg"
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b5_vehwfb.jpg"
   },
   {
     title: "The Big Achievement",
     date: "Happy",
     description: "From small talks to unforgettable memories together. ✨",
-    image: "src/images/b5.jpeg"
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b5_vehwfb.jpg"
   }
 ];
 

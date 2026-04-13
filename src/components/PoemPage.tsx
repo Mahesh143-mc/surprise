@@ -11,14 +11,14 @@ const movieDedications = [
     title: "Priyamaana Thozhi ",
     year: "2003",
     reason: "This movie reminds me of our friendship — pure, caring, and always supportive. Just like the story, our bond is filled with trust, laughter, and memories that will never fade.",
-    image: "src/images/movie1.png",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/movie1_rcahfs.png",
     tag: "Friendship Goals"
   },
   {
     title: "Thiruchitrambalam",
     year: "2022",
     reason: "A beautiful story that shows how a simple friendship can slowly become the most important part of life. Just like in the movie, your presence makes every ordinary moment special.",
-    image: "src/images/movie2.avif",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105826/movie2_ldmljs.avif",
     tag: "Heartwarming"
   }
 ];
@@ -28,14 +28,14 @@ const songDedications = [
     title: "Yaele Yaele Dosthu Da",
     artist: "",
     reason: "This song perfectly describes our friendship. No matter what happens, our bond stays strong and full of fun. A true dosthu like you is rare in life.",
-    image: "src/images/song1.jpg",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105826/song1_ibfa8v.jpg",
     icon: <Music size={24} />
   },
   {
     title: "Kattukuyilu",
     artist: "",
     reason: "This song brings joy and energy, just like you. Your laughter and lively nature make every moment brighter. Life feels more colorful with a friend like you.",
-    image: "src/images/song.jpg",
+    image: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105826/song_rzyfry.jpg",
     icon: <Disc size={24} />
   }
 ];

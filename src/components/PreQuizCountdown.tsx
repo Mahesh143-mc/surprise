@@ -89,24 +89,6 @@ export const PreQuizCountdown = ({ onComplete }: PreQuizCountdownProps) => {
               <TimeUnit value={timeLeft.minutes} label="Minutes" />
               <TimeUnit value={timeLeft.seconds} label="Seconds" />
             </div>
-
-            <div className="pt-12 space-y-6">
-              <div className="flex items-center justify-center gap-3 text-white/30 text-sm font-medium uppercase tracking-widest">
-                <Clock size={16} />
-                Counting down to April 14th
-              </div>
-              
-              {/* Skip Button for Testing - Hidden in production if needed, but useful for user now */}
-              <motion.button
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                onClick={onComplete}
-                className="px-8 py-3 rounded-full bg-white/5 hover:bg-white/10 text-white/40 hover:text-white/80 border border-white/10 transition-all text-sm font-bold flex items-center gap-2 mx-auto"
-              >
-                <Sparkles size={16} />
-                Unlock Early (For Testing)
-              </motion.button>
-            </div>
           </motion.div>
         ) : (
           <motion.div

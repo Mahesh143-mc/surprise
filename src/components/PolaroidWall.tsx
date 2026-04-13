@@ -2,10 +2,10 @@ import React from 'react';
 import { motion } from 'motion/react';
 
 const photos = [
-  { url: "src/images/b1.jpeg", caption: "That one sunset..." },
-  { url: "src/images/b2.jpeg", caption: "Coffee dates ☕" },
-  { url: "src/images/b3.jpeg", caption: "Bestie vibes ✨" },
-  { url: "src/images/b5.jpeg", caption: "Forever smiling" },
+  { url: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105819/b1_a5hr55.jpg", caption: "That one sunset..." },
+  { url: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105823/b2_ttwwnq.jpg", caption: "Coffee dates ☕" },
+  { url: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105824/b3_or2da2.jpg", caption: "Bestie vibes ✨" },
+  { url: "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b7_sb9rhs.jpg", caption: "Forever smiling" },
 ];
 
 export const PolaroidWall = () => {

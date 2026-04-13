@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 
 const galleryImages = [
- "src/images/b1.jpeg",
-  "src/images/b2.jpeg",
-  "src/images/b3.jpeg",
-  "src/images/b4.jpeg",
-  "src/images/b8.jpeg",
-  "src/images/b7.jpeg",
+ "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105819/b1_a5hr55.jpg",
+  "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105823/b2_ttwwnq.jpg",
+  "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105824/b3_or2da2.jpg",
+  "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105824/b4_mf8bzn.jpg",
+  "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b8_z6jws8.jpg",
+  "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b7_sb9rhs.jpg",
 ];
 
 export const PhotoGallery = () => {

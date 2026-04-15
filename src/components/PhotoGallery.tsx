@@ -6,7 +6,7 @@ const galleryImages = [
   "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105823/b2_ttwwnq.jpg",
   "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105824/b3_or2da2.jpg",
   "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105824/b4_mf8bzn.jpg",
-  "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b8_z6jws8.jpg",
+  "",
   "https://res.cloudinary.com/dnwb5u0xn/image/upload/v1776105825/b7_sb9rhs.jpg",
 ];
 
